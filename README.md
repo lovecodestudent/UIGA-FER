@@ -15,13 +15,13 @@ The test code for the paper 《Unpaired Images based Generator Architecture for 
  (2) It is better to detect the face before you train the model. In this paper, we use a lib face detection algorithm (https://github.com/ShiqiYu/libfacedetection)
 
 Besides, please ensure that you have the following directory tree structure in your repo.
-├── datasets
-│   └── raf
-│   ├────data
-│       ├────images_test.list
-│   └── multiple
-│       ├──── data
-│       ├──── images_test.list
+├── datasets<br/>
+│   └── raf<br/>
+│   ├────data<br/>
+│       ├────images_test.list<br/>
+│   └── multiple<br/>
+│       ├──── data<br/>
+│       ├──── images_test.list<br/>
 
 
 ## Pre-trained models
@@ -61,13 +61,13 @@ $ python FER.py --raf --gpu 0  # run on the RAF-DB
 ```
 Then, it is supposed to print out the following message.
 ****
-Namespace(gpu='0', multiple=False, raf=True)
-Load pre-trained model successfully!
-CM end!
-['disgust', 'scream', 'smile', 'squint', 'surprise', 'neutral']
-The accuracy for each expression is :
-......
-The average accuracy is : ...
+Namespace(gpu='0', multiple=False, raf=True) <br/>
+Load pre-trained model successfully! <br/>
+CM end! <br/>
+['disgust', 'scream', 'smile', 'squint', 'surprise', 'neutral'] <br/>
+The accuracy for each expression is : <br/>
+...... <br/>
+The average accuracy is : ... <br/>
 ***
 
 ## Files
