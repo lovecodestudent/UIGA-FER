@@ -10,7 +10,9 @@ The test code for the paper 《Unpaired Images based Generator Architecture for 
  
 
 ##  Datasets
- (1) You may use any dataset with labels of the expression. In our experiments, we use Multi-PIE (http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html) and RAF-DB (http://www.whdeng.cn/RAF/model1.html). 
+ (1) You may use any dataset with labels of the expression. 
+ In our experiments, we use Multi-PIE (http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html) 
+ and RAF-DB (http://www.whdeng.cn/RAF/model1.html). 
  
  (2) It is better to detect the face before you train the model. In this paper, we use a lib face detection algorithm (https://github.com/ShiqiYu/libfacedetection)
 
@@ -35,9 +37,6 @@ Decoder model(https://pan.baidu.com/s/1eN2fngmaMUP-2N6ts-_jBw)
 
 #### 2.Facial expression recognition
 The pre-trained VGG model for facial expression rocogition can be download from the following links:
-##### On the Multi-PIE dataset:
-FER(https://pan.baidu.com/s/1ZD_pZX8C4l_bGReflt-p7Q)
-FER_enc(https://pan.baidu.com/s/1A1lU5Vafxml7cqgcAiWy7g)
 ##### On the RAF-DB:
 FER(https://pan.baidu.com/s/1eiHCK8Bgik9B4pGNSJekYw)
 FER_enc(https://pan.baidu.com/s/1fGWiriXTbM5wov5d2z_r7A)
