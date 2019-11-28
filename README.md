@@ -32,9 +32,9 @@ Besides, please ensure that you have the following directory tree structure in y
 Please put all the pre-trained models into the folder "models".
 
 #### 1.Facial expression synthesis
-The pre-trained GAN model for facial expression synthesis on RAF-DB can be download from the following links:
-Encoder model(https://pan.baidu.com/s/1iRTsx1_QgTju0JVxQoTx5w)
-Decoder model(https://pan.baidu.com/s/1eN2fngmaMUP-2N6ts-_jBw)
+The pre-trained GAN model for facial expression synthesis on RAF-DB can be download from the following links:<br/>
+Encoder model(https://pan.baidu.com/s/1iRTsx1_QgTju0JVxQoTx5w)<br/>
+Decoder model(https://pan.baidu.com/s/1eN2fngmaMUP-2N6ts-_jBw)<br/>
 
 #### 2.Facial expression recognition
 The pre-trained VGG model for facial expression rocogition can be download from the following links:
