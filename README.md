@@ -11,12 +11,13 @@ The test code for the paper 《Unpaired Images based Generator Architecture for 
 
 ##  Datasets
  (1) You may use any dataset with labels of the expression. 
- In our experiments, we use Multi-PIE (http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html) 
- and RAF-DB (http://www.whdeng.cn/RAF/model1.html). 
+ In our experiments, we use <br/>
+ Multi-PIE (http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html) <br/>
+ RAF-DB (http://www.whdeng.cn/RAF/model1.html). <br/>
  
  (2) It is better to detect the face before you train the model. In this paper, we use a lib face detection algorithm (https://github.com/ShiqiYu/libfacedetection)
 
-Besides, please ensure that you have the following directory tree structure in your repo.
+Besides, please ensure that you have the following directory tree structure in your repo.<br/>
 ├── datasets<br/>
 │   └── raf<br/>
 │   ├────data<br/>
